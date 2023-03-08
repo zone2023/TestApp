@@ -6,6 +6,7 @@ using Microsoft.Extensions.Logging;
 
 namespace FunctionApp1
 {
+    //Create new task
     public class Function1
     {
         private readonly ILogger _logger;
